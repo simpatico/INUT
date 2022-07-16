@@ -1,0 +1,102 @@
+.headroom--not-top.navbar-theme-primary {
+    background: #e6e7ee9e!important;
+    /* opacity: 0.8; */
+    backdrop-filter: blur(3px)!important;
+}
+.organic-radius {
+    border-radius: 100%!important;
+}
+.tokenomics div span{
+    margin-left: 20%;
+    font-weight: bold;
+}
+.tokenomics p{
+    font-weight: bold;
+    font-size: x-large;
+    padding: 70px;
+    color: white;
+}
+.tokenomics div{
+    padding-left: 70px;
+    color: white;
+    background-color: rgb(50, 47, 47);
+    margin: 10px;
+    border-radius: 50px;
+}
+.tokenomics{
+    background-color: rgb(38, 23, 23);
+    padding-top: 10px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-left: 14%;
+    padding: 7%;
+}
+
+
+.container5{
+    background-color: black;
+    display: inline-block;
+    margin-left: 10%;
+    padding: 20px;
+    border-radius: 20px;
+}
+.buy{
+    border: 1px solid rgb(238, 222, 222);
+    border-radius: 20px;
+    background-color: rgb(50, 45, 45);
+    
+    
+}
+.pay{
+    display: inline-block;
+ margin-right: 50px;
+ padding-left: 100px;
+    
+}
+.coin{
+    display: inline-block;
+    margin-left: 5px;
+    padding-right: 100px;
+}
+.inut{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    
+    
+}
+.buy1{
+    
+    border-radius: 2px;
+    background-color: rgb(50, 45, 45);
+    outline: none;
+margin-top: 1px ;}
+.connet{
+    display: inline-block;
+    background-color: rgb(132, 21, 224);
+    color: aliceblue;
+    font-weight: bold;
+    align-content: center;
+    padding: 15px;
+    margin-left: 80px;
+    margin-right: 50px;
+    padding-left: 40px;
+    padding-right: 80px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+    .inut img {
+        width: 20px;
+        margin-bottom: 0;
+        margin-top: 10px;
+        
+    }
+    
+
+    
